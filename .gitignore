@@ -1,0 +1,10 @@
+# Données (trop lourdes pour GitHub)
+data/raw/
+data/processed/
+
+# Modèles entraînés (trop lourds)
+checkpoints/
+
+# Fichiers temporaires
+__pycache__/
+.ipynb_checkpoints/
