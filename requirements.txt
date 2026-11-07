@@ -5,3 +5,5 @@ matplotlib
 tqdm
 streamlit
 seaborn
+nltk
+streamlit_chat

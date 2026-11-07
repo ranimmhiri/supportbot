@@ -8,3 +8,6 @@ checkpoints/
 # Fichiers temporaires
 __pycache__/
 .ipynb_checkpoints/
+
+# Ressources de l'application (trop lourdes)
+app/ressources/
