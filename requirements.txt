@@ -7,3 +7,9 @@ streamlit
 seaborn
 nltk
 streamlit_chat
+
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.5.1+cpu
+streamlit>=1.37
+numpy
+pandas
